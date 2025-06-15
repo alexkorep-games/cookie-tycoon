@@ -1,0 +1,6 @@
+{
+  "name": "Cookie Clicker Game",
+  "description": "A simple and addictive cookie clicker game where you click cookies to earn more cookies and buy upgrades to automate production. Built with React and Tailwind CSS.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
